@@ -2,7 +2,6 @@ package projects;
 
 public class TheaterApp {
     static boolean [][] arr = new boolean[30][12];
-    //default value is false for boolean elements
 
     public static void main(String[] args) {
         book('B', 2);
